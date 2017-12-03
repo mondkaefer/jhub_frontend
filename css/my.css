@@ -3,7 +3,7 @@
 }
 
 .logo {
-    background-image: url("__YOUR_IMAGE_HERE__");
+    background-image: url("/images/pic.jpeg");
     background-repeat: no-repeat;
     height: 50vh;
     background-size: cover;
